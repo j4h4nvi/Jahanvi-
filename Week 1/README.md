@@ -25,12 +25,11 @@ Here's a tutorial on Google Colab (the video uses Tensorflow for the demo, it is
 
 - [Tensorflow on Colab](https://youtu.be/inN8seMm7UI?si=n0PEguW0w9I8qESd)
 
+There’s a Python primer notebook in [this folder](https://github.com/adityasanapala/SoC-RL/tree/main/Week%201/1-Python-Primer). You can use it to familiarize yourself with the environment and revise some of the core concepts of Python programming. There is also an exercise notebook in the same folder, which you are expected to solve and submit.
 
-This is a good video but long, should keep you occupied for a bit.
+If you want to revise some other concepts, this is a good video but long, should keep you occupied for a bit.
 
-Programming with Mosh: [Youtube](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
-
-Choose whatever resource suits you and get acquainted with the modules to move forward with the project.
+- [Mosh Hamedani's Guide to Python](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
 
 ---
 
@@ -43,7 +42,6 @@ I'd love it if you also learn git for working with projects (it's very useful fo
 This is a good lecture on git for beginners
 
 Git - https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw
-
 
 
 ### Resources for Numpy
